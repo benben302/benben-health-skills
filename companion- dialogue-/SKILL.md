@@ -1,4 +1,4 @@
-[companion- dialogue- SKILL.md](https://github.com/user-attachments/files/28103583/companion-.dialogue-.SKILL.md)
+[companion- dialogue- SKILL.md](https://github.com/user-attachments/files/28103583/companion-.dialogue.SKILL.md)
 -----
 
 ## name: companion-dialogue
